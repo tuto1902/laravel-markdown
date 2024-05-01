@@ -31,9 +31,11 @@ Create a new SQLite database file. It's not used, but Laravel won't run without 
 ```
 php artisan migrage
 ```
-Start a dev server
+if you are using Herd, you can acess the app at http://laravel-markdown.test (assuming you didn't choose a different folder name for the repo)
+
+Otherwise, start a dev server
 ```
 php artisan serve
 ```
-You can now access the app at http://localhost:8000
-Or, if you are using Herd, just go to http://laravel-markdown.test (assuming you didn't choose a different folder name for the repo)
+You can access the app at http://localhost:8000
+
