@@ -16,7 +16,7 @@ Route::get('/', function () {
 
     And finally, some code
 
-    ```php{}{1,4}
+    ```php
     public function foo($bar) {
         $foo = $bar;
 
