@@ -15,7 +15,7 @@ If you are on Windows, install the following dependency
 ```
 npm install @rollup/rollup-win32-x64-msvc
 ```
-Comile local assets
+Compile your local assets
 ```
 npm run build
 ```
